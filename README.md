@@ -13,3 +13,6 @@ A - Levels: Physics, ICT, Business
 ### Passions and Interests
 Space, Computer Science, **Coding,**
 Music, **Learning**
+
+## LinkedIn
+https://www.linkedin.com/in/james-dodd-781032203/
